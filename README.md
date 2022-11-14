@@ -274,4 +274,5 @@ Please create a pull request if I missed any awesome resource response.
 
 # Credits -
 https://github.com/Nickyie/Cybersecurity-Resources
+
 https://github.com/TalEliyahu/awesome-cybersecurity-conferences
