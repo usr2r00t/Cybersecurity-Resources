@@ -2,7 +2,7 @@
 A Library of various cybersecurity resources gathered from public availiabe data.
 - [Cybersecurity Youtube Channels](#cybersecurity-youtube-channels)
 - [Labs for Practice](#cybersecurity-labs)
-- [Cybersecurity Conferences]
+- [Cybersecurity Conferences](#2022-conferences-excel-sheet)
 - [Cybersecurity & Hacking Documentaries](#cybersecurity--hacking-documentaries)
 
 ## Cybersecurity-Youtube Channels
@@ -271,3 +271,7 @@ Some Great Cybersecurity & Hacking Documentaries Recommendations!
 # Contributing
 
 Please create a pull request if I missed any awesome resource response.
+
+# Credits -
+https://github.com/Nickyie/Cybersecurity-Resources
+https://github.com/TalEliyahu/awesome-cybersecurity-conferences
