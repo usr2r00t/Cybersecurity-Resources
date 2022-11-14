@@ -1,5 +1,8 @@
 # Cybersecurity-Resources
 A Library of various cybersecurity resources gathered from public availiabe data.
+- [Cybersecurity Youtube Channels](#cybersecurity-youtube-channels)
+- [Labs for Practice](#cybersecurity-labs)
+- [Cybersecurity & Hacking Documentaries](#cybersecurity--hacking-documentaries)
 
 ## Cybersecurity-Youtube Channels
 A collection of list of Best Cybersecurity Youtube Channels I have came across and found useful so far
